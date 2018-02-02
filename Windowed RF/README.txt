@@ -1,0 +1,1 @@
+The final windowed register file implementation is described in file "Window_RF.vhd" while the working principle and the commented description are within the file "WindowCTRL.vhd" which describes the RF signals arrangements.
